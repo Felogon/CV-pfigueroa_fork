@@ -2,6 +2,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.nav-item:hover{
+  background-color: #b92db2;
+  
+}
 
 #Hero-Section {
   background-image: url("https://img.wallpapersafari.com/desktop/1600/900/78/79/4WPE0v.jpg");
